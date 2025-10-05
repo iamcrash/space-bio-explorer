@@ -25,8 +25,8 @@ A modern, responsive search engine for NASA space biology research articles with
 ## Firebase Integration
 
 ### Database Configuration
-- **Database URL**: `https://space-apps-challenge-310-default-rtdb.firebaseio.com/`
-- **API Key**: `AIzaSyAJnx5jghEsE8W48dlw6zIT3zd66_OJqCE`
+- **Database URL**: `https://<your-firebase-project-name>default-rtdb.firebaseio.com/`
+- **API Key**: `AIzaS***************************`
 - **Real-time Data**: Articles are fetched from Firebase Realtime Database
 - **API Endpoint**: `/api/articles` handles server-side data fetching
 
